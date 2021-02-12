@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on building large scale systeme, like to learn, discuss and share experiences
 - 🤔 I’m looking for help with Cloud
 - 💬 Ask me about Devops : I am willing to answer what I can about the tech stack I worked on
-- 📫 How to reach me : on discord <tmed#3642>
+- 📫 How to reach me : on discord <toubimed#3642>
 - 😄 Pronouns: Vini Vidi Amavi
