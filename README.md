@@ -1,4 +1,4 @@
-### Hi there 👋 I'm TOUBI Mohamed devops engineer who love love to automate the software delivery process including integration, testing, and infrastructure management using devops tools and principals.
+### Hi there 👋
 
 - 🔭 I’m currently working on on anything that improves the workflow in a dev team, from pipelines, automated dev environment setup to automated deployments & orchestration
 - 🌱 I’m currently learning data science, data warehouse
